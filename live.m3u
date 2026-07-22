@@ -9,7 +9,7 @@ http://204.12.221.218:8181/3m1080p/cctv3.m3u8
 http://204.12.221.218:8181/3m1080p/cctv4.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5.png" group-title="央视频道",CCTV5
 http://204.12.221.218:8181/3m1080p/cctv5.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5+.png" group-title="央视频道",CCTV5+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5p.png" group-title="央视频道",CCTV5+
 http://204.12.221.218:8181/3m1080p/cctv5+.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV6.png" group-title="央视频道",CCTV6
 http://204.12.221.218:8181/3m1080p/cctv6.m3u8
@@ -39,6 +39,8 @@ http://204.12.221.218:8181/3m1080p/cctv17.m3u8
 http://204.12.221.218:8181/3m1080p/dfws.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://204.12.221.218:8181/3m1080p/jsws.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://204.12.221.218:8181/3m1080p/zjws.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东卫视.png" group-title="卫视频道",广东卫视
 http://204.12.221.218:8181/3m1080p/gdws.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖北卫视.png" group-title="卫视频道",湖北卫视
